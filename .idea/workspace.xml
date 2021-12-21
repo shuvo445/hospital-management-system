@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91fa4521-894f-4e22-b5f2-fc70d7984750" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/static/profile_pic/DoctorProfilePic/classwork.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    <list default="true" id="91fa4521-894f-4e22-b5f2-fc70d7984750" name="Changes" comment="commmit">
       <change beforePath="$PROJECT_DIR$/hospitalmanagement/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospitalmanagement/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +46,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640095514695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commmit">
+      <created>1640100293472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640100293472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +71,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="commmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commmit" />
   </component>
 </project>
