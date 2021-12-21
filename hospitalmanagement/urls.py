@@ -96,7 +96,6 @@ urlpatterns +=[
 
 
 
-#---------FOR PATIENT RELATED URLS-------------------------------------
 urlpatterns +=[
 
     path('patient-dashboard', views.patient_dashboard_view,name='patient-dashboard'),
@@ -108,7 +107,3 @@ urlpatterns +=[
     path('patient-discharge', views.patient_discharge_view,name='patient-discharge'),
 
 ]
-
-#Developed By : sumit kumar
-#facebook : fb.com/sumit.luv
-#Youtube :youtube.com/lazycoders
