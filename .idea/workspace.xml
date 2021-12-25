@@ -5,10 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91fa4521-894f-4e22-b5f2-fc70d7984750" name="Changes" comment="commmit">
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/DoctorProfilePic/download_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/DoctorProfilePic/download_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/profile_pic/PatientProfilePic/download_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_add_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_add_appointment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_add_doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_add_doctor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_add_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_add_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_approve_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_approve_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_approve_doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_approve_doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_approve_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_approve_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_dashboard_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_dashboard_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_discharge_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_discharge_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_doctor_patient_card.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_doctor_patient_card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_update_doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_update_doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_update_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_update_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_view_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_view_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_view_doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_view_doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_view_doctor_Specialisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_view_doctor_Specialisation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/admin_view_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/admin_view_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/adminclick.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/adminclick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/adminlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/adminlogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/adminsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/adminsignup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/contactussuccess.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/contactussuccess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_dashboard_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_dashboard_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_delete_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_delete_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_view_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_view_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_view_discharge_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_view_discharge_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_view_patient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_view_patient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctor_wait_for_approval.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctor_wait_for_approval.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctorclick.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctorclick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctorlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctorlogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/doctorsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/doctorsignup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/download_bill.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/download_bill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_book_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_book_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_dashboard_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_dashboard_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_discharge.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_discharge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_final_bill.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_final_bill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_generate_bill.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_generate_bill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_view_appointment.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_view_appointment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_view_doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_view_doctor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patient_wait_for_approval.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patient_wait_for_approval.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patientclick.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patientclick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patientlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patientlogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital/patientsignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital/patientsignup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640100373139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commmit">
+      <created>1640100552324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640100552324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
